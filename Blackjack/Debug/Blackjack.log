@@ -1,0 +1,24 @@
+﻿  Player.cpp
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4838: преобразование из "int" в "const char" требует сужающего преобразования
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4305: инициализация: усечение из "int" к "const char"
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4309: инициализация: усечение константного значения
+  Deck.cpp
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4838: преобразование из "int" в "const char" требует сужающего преобразования
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4305: инициализация: усечение из "int" к "const char"
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4309: инициализация: усечение константного значения
+f:\универ\ооп\лабы\4\blackjack\blackjack\deck.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+  Card.cpp
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4838: преобразование из "int" в "const char" требует сужающего преобразования
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4305: инициализация: усечение из "int" к "const char"
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4309: инициализация: усечение константного значения
+  Blackjack.cpp
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4838: преобразование из "int" в "const char" требует сужающего преобразования
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4305: инициализация: усечение из "int" к "const char"
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4309: инициализация: усечение константного значения
+f:\универ\ооп\лабы\4\blackjack\blackjack\blackjack.cpp(36): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AbstractGamer.cpp
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4838: преобразование из "int" в "const char" требует сужающего преобразования
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4305: инициализация: усечение из "int" к "const char"
+f:\универ\ооп\лабы\4\blackjack\blackjack\bjdataheader.h(8): warning C4309: инициализация: усечение константного значения
+  Создание кода...
+  Blackjack.vcxproj -> F:\Универ\ООП\Лабы\4\Blackjack\Debug\Blackjack.exe
